@@ -1,4 +1,3 @@
-const { assert } = require("console");
 const fs = require("fs");
 
 const isLowestPoint = (inputs, i, j) => {
